@@ -1,0 +1,267 @@
+.header ul{
+	float: right;
+	display: inline-flex;
+	text-decoration: none;
+	list-style: none;
+	margin-right: 24px;
+}
+.header {
+	height: 64px;
+}
+.header p {
+	display: inline-flex;
+	margin-bottom: 13px;
+	font-size: 20px;
+}
+.header img {
+	display: inline-flex;
+}
+ul li:first-child {
+	margin-right: 16px;
+}
+ul .Online {
+	margin-right: 16px;
+}
+ul .Companies {
+	margin-right: 16px;
+}
+.banner {
+	background-color: gray;
+}
+.banner .button {
+	background-color: black;
+	color: white;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	width: 250px;
+	text-align: center;
+}
+.banner .pic {
+	width: 60%;
+	margin-left: 24px;
+	margin-bottom: 32px;
+	margin-top: 32px;
+	margin-left: 24px;
+}
+.banner .text {
+	float: right;
+	margin-top: 250px;
+	margin-right: 120px; 
+}
+.text h1 {
+	font-size: 50px;
+}
+.text h2 {
+	font-weight: lighter;
+}
+.practice .pic {
+	width: 60%;
+	margin-top: 32px;
+	margin-left: 24px;
+}
+.practice .pic img {
+	width: 600px;
+}
+.practice {
+	height: 1500px;
+}
+.practice .orientation img{
+	float: right;
+	padding-top: 3px;
+}
+.practice .orientation {
+	display: inline-flex;
+	float: right;
+}
+.practice .campus {
+	float: right;
+	display: inline-flex;
+}
+.practice .lecture {
+	display: inline-flex;
+	float: right;
+}
+.s {
+	background-color: gray;
+	padding-top: 32px;
+	padding-bottom: 32px;
+	text-align: center;
+}
+.learn {
+	background-color: gray;
+	display: inline-flex;
+}
+.learn .software {
+    background-color: white;
+    width: 300px;
+    margin-left: 250px;
+    margin-right: 32px;
+}
+.learn .software img {
+	width: 300px;
+}
+.learn .software h2 {
+	margin-left: 16px;
+	margin-top: 16px;
+}
+.learn .software p {
+	margin-left: 16px;
+	padding-bottom: 16px;
+	color: gray;
+}
+.learn .computer {
+    background-color: white;
+    width: 300px;
+    margin-right: 32px;
+}
+.learn .computer img {
+	width: 300px;
+}
+.learn .computer h2 {
+    margin-left: 16px;
+	margin-top: 16px;
+}
+.learn .computer p {
+    margin-left: 16px;
+	padding-bottom: 16px;
+	color: gray;
+} 
+.learn .design {
+    background-color: white;
+    width: 300px;
+    margin-right: 72px;
+    display: inline-block;
+}
+.learn .design img{
+	width: 300px;
+}
+.learn .design h2 {
+    margin-left: 16px;
+	margin-top: 16px;
+}
+.learn .design p {
+    margin-left: 16px;
+	padding-bottom: 16px;
+	color: gray;
+}
+.learn2 {
+	display: inline-flex;
+	background-color: gray;
+	margin-top: 32px;
+}
+.learn2 .data {
+    background-color: white;
+    width: 300px;
+    margin-left: 250px;
+    margin-bottom: 32px;
+} 
+.learn2 .data img {
+	width: 300px;
+}
+.learn2 .data h2 {
+    margin-left: 16px;
+	margin-top: 16px;
+}
+.learn2 .data p {
+    margin-left: 16px;
+	padding-bottom: 16px;
+	color: gray;
+}
+.learn2 .business {
+    background-color: white;
+    width: 300px;
+    margin-right: 32px;
+    margin-left: 32px;
+    margin-bottom: 32px;
+}
+.learn2 .business img {
+	width: 300px;
+}
+.learn2 .business h2 {
+    margin-left: 16px;
+	margin-top: 16px;
+}
+.learn2 .business p {
+    margin-left: 16px;
+	padding-bottom: 16px;
+	color: gray;
+}
+.learn2 .marketing {
+    background-color: white;
+    width: 300px;
+    margin-bottom: 32px;
+}
+.learn2 .marketing img {
+	width: 300px;
+}
+.learn2 .marketing h2 {
+    margin-left: 16px;
+	margin-top: 16px;
+}
+.learn2 .marketing p {
+    margin-left: 16px;
+	padding-bottom: 16px;
+	color: gray;
+}
+footer {
+    color: gray; 
+    border-top: 1px solid gray;
+    margin-top: 16px;
+    padding-left: 24px;
+}
+.footer {
+	float: right;
+}
+.three {
+	background-color: gray;
+}
+.thesis {
+}
+.thesis h1{
+	text-align: center;
+	margin-bottom: 32px;
+	margin-top: 32px;
+}
+.thesis h2 {
+	margin-left: 24px;
+	margin-bottom: 8px;
+}
+.thesis p {
+	margin-left: 24px;
+	margin-bottom: 32px;
+}
+.thesis video {
+	margin-left: 24px;
+	height: 200px;
+	border: 1px solid black;
+	display: inline-flex;
+}
+.Fisma h2 {
+	float: right;
+}
+.
+.Fisma img {
+	height: auto;
+	margin-left: 16px;
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+.Fisma {
+	background-color: gray;
+	height: 280px;
+	width: 40%;
+}
+@media only screen and (max-width: 450px) and (min-width: 300px) {
+	.header {
+
+	}
+	.banner button {
+		background-color: gray;
+		margin-bottom: 32px;
+		margin-top: 24px;
+	}
+	.bannner .pic {
+		display:block;
+		margin-bottom: 32px;
+	}
+}
