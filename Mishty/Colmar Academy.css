@@ -263,5 +263,6 @@ footer {
 	.bannner .pic {
 		display:block;
 		margin-bottom: 32px;
+		width: 100%;
 	}
 }
